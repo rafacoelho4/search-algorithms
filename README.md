@@ -1,5 +1,9 @@
 # Algoritmos de Busca
 
+> Project developed for course subject Data Structures II. Written in portuguese.
+
+Análise de uma série de algoritmos de busca e comparação de seus custos e complexidades.
+
 ### Gerador de Arquivos
 
 Irá gerar arquivos binários com o seguinte tipo de estrutura: uma chave inteira, um número longo inteiro e uma sequência de 500 caracteres.
